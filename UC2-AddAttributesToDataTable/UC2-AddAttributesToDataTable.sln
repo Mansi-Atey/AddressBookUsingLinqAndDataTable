@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2-AddAttributesToDataTable", "UC2-AddAttributesToDataTable.csproj", "{FC9A6AB6-AFAD-4C0B-9B32-02EDF499FD6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9A6AB6-AFAD-4C0B-9B32-02EDF499FD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9A6AB6-AFAD-4C0B-9B32-02EDF499FD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9A6AB6-AFAD-4C0B-9B32-02EDF499FD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9A6AB6-AFAD-4C0B-9B32-02EDF499FD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {498C25CC-FA34-4FB0-8892-3366C54D111E}
+	EndGlobalSection
+EndGlobal
