@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\bin\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.exe
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\bin\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.deps.json
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\bin\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\bin\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\bin\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.dll
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\bin\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.pdb
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\obj\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\obj\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\obj\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\obj\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.dll
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\obj\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.pdb
+C:\Users\MansiAtey\Desktop\uc7\AddressBookUsingLinqAndDataTable\UC7-UnderstandSizeByStateOrCity\obj\Debug\netcoreapp3.1\UC7-UnderstandSizeByStateOrCity.genruntimeconfig.cache
