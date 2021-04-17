@@ -1,0 +1,13 @@
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\bin\Debug\netcoreapp3.1\UC1-CreateDataTable.exe
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\bin\Debug\netcoreapp3.1\UC1-CreateDataTable.deps.json
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\bin\Debug\netcoreapp3.1\UC1-CreateDataTable.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\bin\Debug\netcoreapp3.1\UC1-CreateDataTable.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\bin\Debug\netcoreapp3.1\UC1-CreateDataTable.dll
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\bin\Debug\netcoreapp3.1\UC1-CreateDataTable.pdb
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.csprojAssemblyReference.cache
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.dll
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.pdb
+C:\Users\MansiAtey\Desktop\uc1\AddressBookUsingLinqAndDataTable\UC1-CreateDataTable\obj\Debug\netcoreapp3.1\UC1-CreateDataTable.genruntimeconfig.cache
