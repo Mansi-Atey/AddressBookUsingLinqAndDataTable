@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\bin\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.exe
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\bin\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.deps.json
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\bin\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\bin\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\bin\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.dll
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\bin\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.pdb
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\obj\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\obj\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\obj\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\obj\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.dll
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\obj\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.pdb
+C:\Users\MansiAtey\Desktop\uc5\AddressBookUsingLinqAndDataTable\UC5-DeleteContactUsingName\obj\Debug\netcoreapp3.1\UC5-DeleteContactUsingName.genruntimeconfig.cache
