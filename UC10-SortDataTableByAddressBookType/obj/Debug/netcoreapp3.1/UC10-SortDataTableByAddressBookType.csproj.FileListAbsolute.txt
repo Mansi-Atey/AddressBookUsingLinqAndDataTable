@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\bin\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.exe
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\bin\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.deps.json
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\bin\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\bin\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\bin\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.dll
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\bin\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.pdb
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\obj\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\obj\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\obj\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\obj\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.dll
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\obj\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.pdb
+C:\Users\MansiAtey\Desktop\uc10\AddressBookUsingLinqAndDataTable\UC10-SortDataTableByAddressBookType\obj\Debug\netcoreapp3.1\UC10-SortDataTableByAddressBookType.genruntimeconfig.cache
