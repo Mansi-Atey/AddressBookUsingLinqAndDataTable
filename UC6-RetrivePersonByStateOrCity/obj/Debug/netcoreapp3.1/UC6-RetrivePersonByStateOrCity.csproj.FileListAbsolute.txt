@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\bin\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.exe
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\bin\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.deps.json
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\bin\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\bin\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\bin\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.dll
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\bin\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.pdb
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\obj\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\obj\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\obj\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\obj\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.dll
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\obj\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.pdb
+C:\Users\MansiAtey\Desktop\uc6\AddressBookUsingLinqAndDataTable\UC6-RetrivePersonByStateOrCity\obj\Debug\netcoreapp3.1\UC6-RetrivePersonByStateOrCity.genruntimeconfig.cache
