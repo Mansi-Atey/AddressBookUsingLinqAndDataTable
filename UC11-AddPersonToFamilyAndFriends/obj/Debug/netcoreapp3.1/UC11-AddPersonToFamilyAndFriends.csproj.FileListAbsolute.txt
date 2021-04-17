@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\bin\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.exe
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\bin\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.deps.json
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\bin\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\bin\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\bin\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.dll
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\bin\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.pdb
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\obj\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\obj\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\obj\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\obj\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.dll
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\obj\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.pdb
+C:\Users\MansiAtey\Desktop\uc11\AddressBookUsingLinqAndDataTable\UC11-AddPersonToFamilyAndFriends\obj\Debug\netcoreapp3.1\UC11-AddPersonToFamilyAndFriends.genruntimeconfig.cache
