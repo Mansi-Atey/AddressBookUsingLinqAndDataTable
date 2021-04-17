@@ -4,7 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 
-namespace UC7_UnderstandSizeByStateOrCity
+namespace UC8_SortNameByCity
 {
     class AddressBookDataTable
     {
@@ -32,12 +32,24 @@ namespace UC7_UnderstandSizeByStateOrCity
             //Return AddressBook DataTable
             return addressBookTable;
         }
-       
-        public void CountContactsFromPerticularCityANDState(DataTable table)
+        public void DisplayContacts(DataTable table)
+        {
+            var contacts = table.Rows.Cast<DataRow>();
+            foreach (var contact in contacts)
+            {
+                Console.WriteLine("\n------------------------------------");
+                Console.Write("First Name : " + contact.Field<string>("FirstName") + " " + "Last Name : " + contact.Field<string>("LastName") + " " + "Address : " + contact.Field<string>("Address") + " " + "City : " + contact.Field<string>("City") + " " + "State : " + contact.Field<string>("State")
+                    + " " + "Zip : " + contact.Field<int>("Zip") + " " + "Phone Number : " + contact.Field<long>("PhoneNumber") + " " + "Email : " + contact.Field<string>("Email") + " ");
+                Console.WriteLine("\n------------------------------------");
+            }
+        }
+        public void SortContacts(DataTable table)
         {
             var contacts = table.Rows.Cast<DataRow>()
-                             .Where(x => x["City"].Equals("Baroda") && x["State"].Equals("Gujrat")).Count();
-            Console.WriteLine("Count of Persons Beloning to City 'Baroda' and State 'Gujrat' : {0} ", contacts);
+                           .OrderBy(x => x.Field<string>("FirstName"));
+            Console.WriteLine("\n**************************************************");
+            Console.WriteLine("\nSorted Contacts using Person's first name");
+            DisplayContacts(contacts.CopyToDataTable());
         }
     }
 }

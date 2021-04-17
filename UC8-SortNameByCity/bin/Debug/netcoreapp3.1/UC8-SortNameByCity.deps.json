@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "UC7-UnderstandSizeByStateOrCity/1.0.0": {
+      "UC8-SortNameByCity/1.0.0": {
         "runtime": {
-          "UC7-UnderstandSizeByStateOrCity.dll": {}
+          "UC8-SortNameByCity.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "UC7-UnderstandSizeByStateOrCity/1.0.0": {
+    "UC8-SortNameByCity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

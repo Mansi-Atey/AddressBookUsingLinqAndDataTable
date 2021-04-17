@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\bin\Debug\netcoreapp3.1\UC8-SortNameByCity.exe
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\bin\Debug\netcoreapp3.1\UC8-SortNameByCity.deps.json
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\bin\Debug\netcoreapp3.1\UC8-SortNameByCity.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\bin\Debug\netcoreapp3.1\UC8-SortNameByCity.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\bin\Debug\netcoreapp3.1\UC8-SortNameByCity.dll
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\bin\Debug\netcoreapp3.1\UC8-SortNameByCity.pdb
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\obj\Debug\netcoreapp3.1\UC8-SortNameByCity.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\obj\Debug\netcoreapp3.1\UC8-SortNameByCity.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\obj\Debug\netcoreapp3.1\UC8-SortNameByCity.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\obj\Debug\netcoreapp3.1\UC8-SortNameByCity.dll
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\obj\Debug\netcoreapp3.1\UC8-SortNameByCity.pdb
+C:\Users\MansiAtey\Desktop\uc8\AddressBookUsingLinqAndDataTable\UC8-SortNameByCity\obj\Debug\netcoreapp3.1\UC8-SortNameByCity.genruntimeconfig.cache

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data;
 
-namespace UC7_UnderstandSizeByStateOrCity
+namespace UC8_SortNameByCity
 {
     class Program
     {
@@ -14,7 +14,8 @@ namespace UC7_UnderstandSizeByStateOrCity
             //addressBookDataTable.EditContact(table);
             //addressBookDataTable.DeleteContact(table);
             //addressBookDataTable.RetrieveContactBelonginhToPerticularCityORState(table);
-            addressBookDataTable.CountContactsFromPerticularCityANDState(table);
+            //addressBookDataTable.CountContactsFromPerticularCityANDState(table);
+            addressBookDataTable.SortContacts(table);
         }
     }
 }

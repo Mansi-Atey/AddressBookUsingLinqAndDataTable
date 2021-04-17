@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MansiAtey\\Desktop\\uc7\\AddressBookUsingLinqAndDataTable\\UC7-UnderstandSizeByStateOrCity\\UC7-UnderstandSizeByStateOrCity.csproj": {}
+    "C:\\Users\\MansiAtey\\Desktop\\uc8\\AddressBookUsingLinqAndDataTable\\UC8-SortNameByCity\\UC8-SortNameByCity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MansiAtey\\Desktop\\uc7\\AddressBookUsingLinqAndDataTable\\UC7-UnderstandSizeByStateOrCity\\UC7-UnderstandSizeByStateOrCity.csproj": {
+    "C:\\Users\\MansiAtey\\Desktop\\uc8\\AddressBookUsingLinqAndDataTable\\UC8-SortNameByCity\\UC8-SortNameByCity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MansiAtey\\Desktop\\uc7\\AddressBookUsingLinqAndDataTable\\UC7-UnderstandSizeByStateOrCity\\UC7-UnderstandSizeByStateOrCity.csproj",
-        "projectName": "UC7-UnderstandSizeByStateOrCity",
-        "projectPath": "C:\\Users\\MansiAtey\\Desktop\\uc7\\AddressBookUsingLinqAndDataTable\\UC7-UnderstandSizeByStateOrCity\\UC7-UnderstandSizeByStateOrCity.csproj",
+        "projectUniqueName": "C:\\Users\\MansiAtey\\Desktop\\uc8\\AddressBookUsingLinqAndDataTable\\UC8-SortNameByCity\\UC8-SortNameByCity.csproj",
+        "projectName": "UC8-SortNameByCity",
+        "projectPath": "C:\\Users\\MansiAtey\\Desktop\\uc8\\AddressBookUsingLinqAndDataTable\\UC8-SortNameByCity\\UC8-SortNameByCity.csproj",
         "packagesPath": "C:\\Users\\MansiAtey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MansiAtey\\Desktop\\uc7\\AddressBookUsingLinqAndDataTable\\UC7-UnderstandSizeByStateOrCity\\obj\\",
+        "outputPath": "C:\\Users\\MansiAtey\\Desktop\\uc8\\AddressBookUsingLinqAndDataTable\\UC8-SortNameByCity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MansiAtey\\AppData\\Roaming\\NuGet\\NuGet.Config",

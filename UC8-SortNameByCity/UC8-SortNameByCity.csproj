@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>UC7_UnderstandSizeByStateOrCity</RootNamespace>
+    <RootNamespace>UC8_SortNameByCity</RootNamespace>
   </PropertyGroup>
 
 </Project>
