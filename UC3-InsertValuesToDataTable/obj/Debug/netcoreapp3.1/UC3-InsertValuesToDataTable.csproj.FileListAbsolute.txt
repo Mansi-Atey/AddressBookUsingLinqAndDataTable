@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\bin\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.exe
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\bin\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.deps.json
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\bin\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\bin\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\bin\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.dll
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\bin\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.pdb
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\obj\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\obj\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\obj\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\obj\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.dll
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\obj\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.pdb
+C:\Users\MansiAtey\Desktop\uc3\AddressBookUsingLinqAndDataTable\UC3-InsertValuesToDataTable\obj\Debug\netcoreapp3.1\UC3-InsertValuesToDataTable.genruntimeconfig.cache
