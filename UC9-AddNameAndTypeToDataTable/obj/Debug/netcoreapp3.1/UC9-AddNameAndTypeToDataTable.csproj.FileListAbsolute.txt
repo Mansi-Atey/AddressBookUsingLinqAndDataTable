@@ -1,0 +1,12 @@
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\bin\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.exe
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\bin\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.deps.json
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\bin\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.runtimeconfig.json
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\bin\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.runtimeconfig.dev.json
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\bin\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.dll
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\bin\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.pdb
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\obj\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.AssemblyInfoInputs.cache
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\obj\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.AssemblyInfo.cs
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\obj\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.csproj.CoreCompileInputs.cache
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\obj\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.dll
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\obj\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.pdb
+C:\Users\MansiAtey\Desktop\uc9\AddressBookUsingLinqAndDataTable\UC9-AddNameAndTypeToDataTable\obj\Debug\netcoreapp3.1\UC9-AddNameAndTypeToDataTable.genruntimeconfig.cache
